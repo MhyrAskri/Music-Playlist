@@ -1,0 +1,3 @@
+C:/Users/bcz/CLionProjects/MusicPlaylist/cmake-build-debug/CMakeFiles/MusicPlaylist.dir
+C:/Users/bcz/CLionProjects/MusicPlaylist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bcz/CLionProjects/MusicPlaylist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

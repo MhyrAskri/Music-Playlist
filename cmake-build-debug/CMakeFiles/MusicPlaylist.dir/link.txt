@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MusicPlaylist.dir/objects.a
+C:\PROGRA~1\MINGW-~1\mingw64\bin\ar.exe cr CMakeFiles\MusicPlaylist.dir/objects.a @CMakeFiles\MusicPlaylist.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\MusicPlaylist.dir/objects.a -Wl,--no-whole-archive -o MusicPlaylist.exe -Wl,--out-implib,libMusicPlaylist.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MusicPlaylist.dir\linklibs.rsp
